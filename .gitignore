@@ -1,0 +1,13 @@
+#dataset 
+biology-spec/dataset/
+chemistry-spec/dataset/
+code-spec/dataset/
+math-spec/dataset/
+physics-spec/dataset/
+
+#model 
+basemodel/
+
+
+#venv 
+venv/
